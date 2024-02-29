@@ -28,7 +28,7 @@ const config: HardhatUserConfig = {
   },
   solidity: "0.8.20",
   sourcify: {
-    enabled: true // Enable Sourcify verification
+    enabled: true 
   }
 };
 
